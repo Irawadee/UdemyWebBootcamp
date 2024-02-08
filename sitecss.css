@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: aquamarine;
+  margin: 50px;
+}
+h1 {
+  font-family: "Ubuntu", "sans-serif";
+}
+p {
+  font-family: "Ubuntu", "sans-serif";
+}
+pre {
+  font-family: "Ubuntu", "sans-serif";
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(193, 84, 84);
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
