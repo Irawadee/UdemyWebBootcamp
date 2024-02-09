@@ -1,0 +1,14 @@
+body {
+  background-color: aquamarine;
+  margin: 50px;
+  text-align: center;
+}
+h1 {
+  font-family: "Ubuntu", "sans-serif";
+}
+p {
+  font-family: "Ubuntu", "sans-serif";
+}
+pre {
+  font-family: "Ubuntu", "sans-serif";
+}
