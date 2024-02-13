@@ -1,0 +1,75 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: lavender;
+}
+h1 {
+  font-size: 52px;
+  color: rgb(129, 23, 164);
+}
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+header img {
+  width: 300px;
+}
+main {
+  background-color: blueviolet;
+  padding: 32px;
+  width: 700px;
+  /* to center the block element use the margin define approach, let the horizontal be auto and the element will be center. */
+  margin: 32px auto;
+  border-radius: 8px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: blueviolet;
+  background-color: lightgoldenrodyellow;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(254, 186, 14);
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 14px 0;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+.extra-crucial {
+  color: lightgoldenrodyellow;
+  border-color: yellow;
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+}
+
+footer p {
+  color: rgb(88, 88, 88);
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+footer a {
+  padding: 12px 20px;
+  border-radius: 8px;
+  background-color: rgb(225, 178, 58);
+  color: rgb(149, 42, 42);
+}
